@@ -12,3 +12,7 @@ Tugas 2 - HTML Dasar
 Tugas 3 - Latihan Layout
 
 ![tugas html 3](https://user-images.githubusercontent.com/73833356/97874960-57a3ba80-1d4c-11eb-9e33-dfde475c8454.jpg)
+
+Tugas 4 - Percabangan
+
+![tugas 4](https://user-images.githubusercontent.com/73833356/99249841-5048da80-283d-11eb-82c3-913d95c4133f.png)
